@@ -1,0 +1,62 @@
+{
+  "language": "עברית",
+  "dir": "rtl",
+  "title": "קומפוננטות של ויו",
+  "salutation": "שלום",
+  "logout": "התנתקות",
+  "routes": {
+    "home": "בית",
+    "login": "התחברות",
+    "register": "הרשמה",
+    "components": "קומפוננטות",
+    "displaySearch": "הפריטים שלי"
+  },
+  "cancel": "ביטול",
+  "proceed": "המשך",
+  "ok": "בסדר",
+  "show": "פתיחה",
+  "popup": "פופאפ",
+  "regularPopup": "פופאפ רגיל",
+  "sweetalertPopup": "Sweetalert פופאפ",
+  "confirmationQuestion": "אתה בטוח?",
+  "deleted": "נמחק",
+  "deletedItemMessage": "ה{itemName} שלך נמחק.",
+  "item": {
+    "default": "פריט",
+    "item": "פריט",
+    "file": "קובץ"
+  },
+  "field": {
+    "default": "השדה",
+    "username": "שם המשתמש",
+    "password": "הסיסמה"
+  },
+  "username": "שם משתמש",
+  "password": "סיסמה",
+  "phone": "טלפון",
+  "usernameLengthMessage": "שם המשתמש צריך להכיל בין 3 ל-16 תווים",
+  "passwordLengthMessage": "הסיסמה צריכה להכיל בין 8 ל-64 תווים",
+  "fieldRequired": "שדה זה נדרש",
+  "phoneIncorrectMessage": "מספר הטלפון שגוי",
+  "registerQuestion": "אין לך חשבון? הרשם",
+  "loginQuestion": "יש לך כבר חשבון? הכנס",
+  "details": {
+    "title": "המידע שלך",
+    "name": "שם",
+    "phone": "מספר טלפון"
+  },
+  "noAlphanumericMessage": "{fieldName} צריך להיות אלפאנומרי",
+  "noLetterMessage": "{fieldName} צריך להכיל לפחות אות אחת",
+  "noUpperCaseMessage": "{fieldName} צריכה להכיל לפחות אות גדולה אחת",
+  "noLowerCaseMessage": "{fieldName} צריכה להכיל לפחות אות קטנה אחת",
+  "noDigitMessage": "{fieldName} צריכה להכיל לפחות ספרה אחת",
+  "noSpecialCharMessage": "{fieldName} צריכה להכיל לפחות תו מיוחד אחד",
+  "date": "תאריך",
+  "time": "זמן",
+  "from": "מאת",
+  "to": "אל",
+  "filter": "סינון",
+  "filterTitle": "סינון פריטים",
+  "loginFailed": "ההתחברות נכשלה. אנא בדוק את הפרטים שלך ונסה שוב.",
+  "registerFailed": "ההרשמה נכשלה. אנא נסה שוב מאוחר יותר."
+}

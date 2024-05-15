@@ -1,0 +1,62 @@
+{
+  "language": "English",
+  "dir": "ltr",
+  "title": "Vue Components",
+  "salutation": "Hi",
+  "logout": "Logout",
+  "routes": {
+    "home": "Home",
+    "login": "Login",
+    "register": "Register",
+    "components": "Components",
+    "displaySearch": "My items"
+  },
+  "cancel": "Cancel",
+  "proceed": "Proceed",
+  "ok": "OK",
+  "show": "Show",
+  "popup": "Popup",
+  "regularPopup": "Regular Popup",
+  "sweetalertPopup": "Sweetalert Popup",
+  "confirmationQuestion": "Are you sure?",
+  "deleted": "Deleted",
+  "deletedItemMessage": "Your {itemName} has been deleted.",
+  "item": {
+    "default": "item",
+    "item": "item",
+    "file": "file"
+  },
+  "field": {
+    "default": "The field",
+    "username": "Username",
+    "password": "Password"
+  },  
+  "username": "Username",
+  "password": "Password",
+  "phone": "Telephone",
+  "usernameLengthMessage": "Username must be between 3 and 16 characters",
+  "passwordLengthMessage": "Password must be between 8 and 64 characters",
+  "fieldRequired": "This field is required",
+  "phoneIncorrectMessage": "Phone number is incorrect",
+  "registerQuestion": "Don't have an account? Register",
+  "loginQuestion": "Already have an account? Log in",
+  "details": {
+    "title": "Your informations",
+    "name": "Name",
+    "phone": "Phone number"
+  },
+  "noAlphanumericMessage": "{fieldName} should be alphanumeric",
+  "noLetterMessage": "{fieldName} should contain at least one letter",
+  "noUpperCaseMessage": "{fieldName} should contain at least one uppercase letter",
+  "noLowerCaseMessage": "{fieldName} should contain at least one lowercase letter",
+  "noDigitMessage": "{fieldName} should contain at least one digit",
+  "noSpecialCharMessage": "{fieldName} should contain at least one special character",
+  "date": "Date",
+  "time": "Time",
+  "from": "From",
+  "to": "To",
+  "filter": "Filter",
+  "filterTitle": "Filter Items",
+  "loginFailed": "Login failed. Please check your credentials and try again.",
+  "registerFailed": "Registration failed. Please try again later."
+}

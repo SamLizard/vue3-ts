@@ -1,0 +1,62 @@
+{
+  "language": "Français",
+  "dir": "ltr",
+  "title": "Composantes Vue",
+  "salutation": "Salut",
+  "logout": "Déconnection",
+  "routes": {
+    "home": "Accueil",
+    "login": "Connection",
+    "register": "Inscription",
+    "components": "Composantes",
+    "displaySearch": "Mes éléments"
+  },
+  "cancel": "Annuler",
+  "proceed": "Procéder",
+  "ok": "OK",
+  "show": "Ouvrir",
+  "popup": "Popup",
+  "regularPopup": "Popup Normale",
+  "sweetalertPopup": "Popup Sweetalert",
+  "confirmationQuestion": "Êtes vous sûrs?",
+  "deleted": "Supprimé",
+  "deletedItemMessage": "Votre {itemName} a été supprimé.",
+  "item": {
+    "default": "élément",
+    "item": "élément",
+    "file": "fichier"
+  },
+  "field": {
+    "default": "Ce champ",
+    "username": "Le nom d'utilisateur",
+    "password": "Le mot de passe"
+  },
+  "username": "Nom d'utilisateur",
+  "password": "Mot de passe",
+  "phone": "Téléphone",
+  "usernameLengthMessage": "Le nom d'utilisateur doit contenir entre 3 et 16 caractères",
+  "passwordLengthMessage": "Le mot de passe doit contenir entre 8 et 64 caractères",
+  "fieldRequired": "Ce champ est obligatoire",
+  "phoneIncorrectMessage": "Le numéro de téléphone est incorrect",
+  "registerQuestion": "Vous n'avez pas de compte ? Inscrivez-vous",
+  "loginQuestion": "Vous avez déjà un compte ? Connectez-vous",
+  "details": {
+    "title": "Vos informations",
+    "name": "Nom",
+    "phone": "Numéro de téléphone"
+  },
+  "noAlphanumericMessage": "{fieldName} doit être alphanumérique",
+  "noLetterMessage": "{fieldName} doit contenir au moins une lettre",
+  "noUpperCaseMessage": "{fieldName} doit contenir au moins une lettre majuscule",
+  "noLowerCaseMessage": "{fieldName} doit contenir au moins une lettre minuscule",
+  "noDigitMessage": "{fieldName} doit contenir au moins un chiffre",
+  "noSpecialCharMessage": "{fieldName} doit contenir au moins un caractère spécial",
+  "date": "Date",
+  "time": "Temps",
+  "from": "De",
+  "to": "À",
+  "filter": "Filtrer",
+  "filterTitle": "Filtrer les éléments",
+  "loginFailed": "Échec de la connexion. Veuillez vérifier vos identifiants et réessayer.",
+  "registerFailed": "L'inscription a échoué. Veuillez réessayer plus tard."
+}
